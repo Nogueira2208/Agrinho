@@ -128,7 +128,7 @@ section p {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #3f704d;
+  background-color: #ffee00;
   color: white;
   border: none;
   font-size: 1.5rem;
@@ -140,7 +140,7 @@ section p {
 }
 
 .carousel-btn:hover {
-  background-color: #2e563b;
+  background-color: #ffee00;
 }
 
 .carousel-btn.left {
@@ -163,7 +163,7 @@ video {
 }
 
 footer {
-  background-color: #3f704d;
+  background-color: #dad64d;
   color: white;
   text-align: center;
   padding: 20px;
@@ -184,7 +184,7 @@ footer {
   position: fixed;
   right: 10px;
   top: 150px;
-  background: #3f704d;
+  background: #dad64d;
   color: white;
   border: none;
   padding: 8px 12px;
@@ -217,14 +217,14 @@ footer {
 .accessibility-menu button {
   padding: 8px;
   border: none;
-  background-color: #3f704d;
+  background-color: #dad64d;
   color: white;
   border-radius: 6px;
   cursor: pointer;
 }
 
 .accessibility-menu button:hover {
-  background-color: #2e563b;
+  background-color: #dad64d;
 }
 
 .high-contrast {
@@ -240,7 +240,7 @@ footer {
   .nav-links {
     display: none;
     flex-direction: column;
-    background-color: #3f704d;
+    background-color: #dad64d;
     position: absolute;
     top: 100%;
     right: 0;
