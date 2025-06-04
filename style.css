@@ -22,7 +22,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #d8d44b;
+  background-color: #c9c43d;
   color: white;
   display: flex;
   flex-wrap: wrap;
@@ -128,7 +128,7 @@ section p {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #d8d44b;
+  background-color: #c9c43d;
   color: white;
   border: none;
   font-size: 1.5rem;
@@ -140,7 +140,7 @@ section p {
 }
 
 .carousel-btn:hover {
-  background-color: #d8d44b;
+  background-color: #c9c43d;;
 }
 
 .carousel-btn.left {
@@ -184,7 +184,7 @@ footer {
   position: fixed;
   right: 10px;
   top: 150px;
-  background: #d8d44b;
+  background: #c9c43d;
   color: white;
   border: none;
   padding: 8px 12px;
@@ -217,14 +217,14 @@ footer {
 .accessibility-menu button {
   padding: 8px;
   border: none;
-  background-color: #d8d44b;
+  background-color: #c9c43d;
   color: white;
   border-radius: 6px;
   cursor: pointer;
 }
 
 .accessibility-menu button:hover {
-  background-color: #d8d44b;
+  background-color: #c9c43d;
 }
 
 .high-contrast {
@@ -240,7 +240,7 @@ footer {
   .nav-links {
     display: none;
     flex-direction: column;
-    background-color: #d8d44b;
+    background-color: #c9c43d;
     position: absolute;
     top: 100%;
     right: 0;
