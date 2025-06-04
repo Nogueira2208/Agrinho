@@ -22,7 +22,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #edea89;
+  background-color: #d8d44b;
   color: white;
   display: flex;
   flex-wrap: wrap;
@@ -128,7 +128,7 @@ section p {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #cbcb37;
+  background-color: #d8d44b;
   color: white;
   border: none;
   font-size: 1.5rem;
@@ -140,7 +140,7 @@ section p {
 }
 
 .carousel-btn:hover {
-  background-color: #cbcb37;
+  background-color: #d8d44b;
 }
 
 .carousel-btn.left {
@@ -184,7 +184,7 @@ footer {
   position: fixed;
   right: 10px;
   top: 150px;
-  background: #dad64d;
+  background: #d8d44b;
   color: white;
   border: none;
   padding: 8px 12px;
@@ -217,14 +217,14 @@ footer {
 .accessibility-menu button {
   padding: 8px;
   border: none;
-  background-color: #dad64d;
+  background-color: #d8d44b;
   color: white;
   border-radius: 6px;
   cursor: pointer;
 }
 
 .accessibility-menu button:hover {
-  background-color: #dad64d;
+  background-color: #d8d44b;
 }
 
 .high-contrast {
@@ -240,7 +240,7 @@ footer {
   .nav-links {
     display: none;
     flex-direction: column;
-    background-color: #dad64d;
+    background-color: #d8d44b;
     position: absolute;
     top: 100%;
     right: 0;
