@@ -22,7 +22,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #dad64d;
+  background-color: #edea89;
   color: white;
   display: flex;
   flex-wrap: wrap;
@@ -128,7 +128,7 @@ section p {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #ffee00;
+  background-color: #cbcb37;
   color: white;
   border: none;
   font-size: 1.5rem;
@@ -140,7 +140,7 @@ section p {
 }
 
 .carousel-btn:hover {
-  background-color: #ffee00;
+  background-color: #cbcb37;
 }
 
 .carousel-btn.left {
@@ -163,7 +163,7 @@ video {
 }
 
 footer {
-  background-color: #dad64d;
+  background-color: #edea89;
   color: white;
   text-align: center;
   padding: 20px;
